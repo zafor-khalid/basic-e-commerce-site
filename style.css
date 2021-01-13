@@ -1,0 +1,25 @@
+
+.carousel-custom{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+ button{
+    background-image: linear-gradient(45deg, #f54d7e,#f54e81);
+   
+}
+.card-custom{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(199, 193, 193);
+    border-radius: 15px;
+}
+.card-custom > .card-footer-custom{
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+}
+.stay-in-touch{
+    background-color: whitesmoke;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px rgb(216, 207, 207);
+}
